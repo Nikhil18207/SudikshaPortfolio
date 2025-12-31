@@ -2,8 +2,6 @@
 
 A modern and clean peronal website.
 
-https://github.com/user-attachments/assets/6a1f5259-8953-4be1-a057-fcbcb13811e2
-
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/) - React framework

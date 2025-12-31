@@ -1,4 +1,4 @@
-# itsmehi
+# Sudiksha Samanta
 
 A modern and clean peronal website.
 

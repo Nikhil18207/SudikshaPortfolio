@@ -21,13 +21,6 @@ yarn install
 
 Create a `.env.local` file in the root directory based on `.env.example`:
 
-```bash
-NODE_ENV=
-HASHNODE_PUBLICATION_ID=
-```
-
-You'll need to set your actual Hashnode publication ID from hashnode dashboard.
-
 Then, run the development server:
 
 ```bash

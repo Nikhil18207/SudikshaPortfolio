@@ -165,7 +165,7 @@ function Band({
     } as const;
 
     // First cast to unknown, then to CustomGLTFResult to avoid TypeScript casting errors
-    const gltf = useGLTF("/Sudiksha.glb");
+    const gltf = useGLTF("/Sudikshaaa.glb");
     const { nodes, materials } = gltf as unknown as CustomGLTFResult;
 
     const texture = useTexture("/band.png");

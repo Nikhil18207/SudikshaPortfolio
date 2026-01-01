@@ -1,8 +1,4 @@
-# itsmehi
 
-A modern and clean peronal website.
-
-https://github.com/user-attachments/assets/6a1f5259-8953-4be1-a057-fcbcb13811e2
 
 ## Tech Stack
 
@@ -44,7 +40,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the s
 
 ## References
 - [Vercel card guide](https://x.com/0xca0a)
-- [hashnode newsletter integration](https://www.vistosocreative.com/blog/how-to-integrate-hashnode-newsletter-subscription-into-your-nextjs-website)
 
 ## Issues
 
